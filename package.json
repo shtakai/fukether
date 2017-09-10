@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/shtakai/fukether/issues"
   },
-  "homepage": "https://github.com/shtakai/fukether#readme"
+  "homepage": "https://github.com/shtakai/fukether#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
 }
